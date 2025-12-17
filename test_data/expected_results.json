@@ -1,0 +1,12 @@
+{
+  "fire_image_1.jpg": {
+    "fire_detected": true,
+    "num_detections": 3,
+    "min_confidence": 0.6
+  },
+  "fire_image_3.jpg": {
+    "fire_detected": true,
+    "num_detections": 5,
+    "min_confidence": 0.68
+  }
+}
